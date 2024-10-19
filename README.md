@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![m's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectAccounth&show=reviews)
+![m's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectAccounth)
 
 i'm very proud of this stats
 
