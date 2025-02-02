@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![m's GitHub stats](https://my-own-stats-ka5b.vercel.app/api?username=projectAccounth&show_icons=true)
-
-i'm very proud of this stats
-
+An absolute beginner!
